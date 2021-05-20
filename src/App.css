@@ -8,8 +8,8 @@
   bottom: 0;
   z-index: 1;
   background-color: #e9e9eb;
-  width: 90%;
-  margin: 20px;
+  width: 100%;
+  margin: 20px !important;
 }
 
 .app__formControl {
